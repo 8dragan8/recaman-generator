@@ -1,0 +1,32 @@
+.dot {
+  background-color: #97f6b4;
+  width: 15px;
+  height: 15px;
+}
+
+body {
+  background-color: black;
+}
+
+label {
+  color: white;
+}
+
+.container {
+  padding-left: 0px;
+  padding-right: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.row {
+  padding-left: 0px;
+  padding-right: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  position: absolute;
+}
+.canvasDiv {
+  position: absolute;
+  top: 35px;
+  left: 10px;
+}
